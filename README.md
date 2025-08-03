@@ -16,8 +16,8 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/yourusername/yourrepo.git
-   cd yourrepo
+   git clone https://github.com/hashc0d3/slavalarionov.git
+   cd slavalarionov
    ```
 
 2. **Установите зависимости для всех пакетов:**
